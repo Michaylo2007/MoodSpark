@@ -40,3 +40,9 @@ MoodSpark
 міні-ідею: “take a break”, “listen to music”, “write one thought”
 
 Вся історія зберігається у вигляді простого календаря або стрічки
+
+“This project was built with extensive AI assistance.
+My focus was on idea exploration, product direction, and iteration.”
+
+Цей проєкт було створено за активної допомоги ШІ.
+Моя увага була зосереджена на дослідженні ідей, визначенні напрямку продукту та ітерації.
